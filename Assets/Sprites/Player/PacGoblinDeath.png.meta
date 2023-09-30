@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9e1cd937fe26e5b42bbbe9d7da5c654c
+guid: 71344d069ab392846bcfa9478d99e290
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -131,7 +131,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rogue_0
+      name: PacGoblinDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85711546110f6f4438b6793483d0688c
+      internalID: -861441434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacGoblinDeath_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e49273bb09784b896979d9d3a0bb0
+      internalID: -1332781601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacGoblinDeath_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3f964093f679439778b73d6d432e6
+      internalID: 2043040356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacGoblinDeath_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6b617b11745d49a821a45ea274dca
+      internalID: 1714194634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacGoblinDeath_4
       rect:
         serializedVersion: 2
         x: 0
@@ -145,14 +229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c80496fcfb8dd0a4b9c1b10f57552785
-      internalID: 203492057
+      spriteID: b9912ad6bb9889446a22cd1a1244bc37
+      internalID: 1762038955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_1
+      name: PacGoblinDeath_5
       rect:
         serializedVersion: 2
         x: 64
@@ -166,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713166d53a3f37f499cace2024adb6b9
-      internalID: -1988295425
+      spriteID: 18f2d10e5f77925408b4e2d134e1fe6a
+      internalID: -138772869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_2
+      name: PacGoblinDeath_6
       rect:
         serializedVersion: 2
         x: 128
@@ -187,14 +271,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 753994f919e0e6745b70235957a943ab
-      internalID: 1519309358
+      spriteID: 91046b26242422647b1f098e3c3062cd
+      internalID: -425676225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_3
+      name: PacGoblinDeath_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960848454051274680437c3c7406bc4
+      internalID: -1019193681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacGoblinDeath_8
       rect:
         serializedVersion: 2
         x: 0
@@ -208,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dbb115d64dcfa24aa3fa73afde3a23a
-      internalID: -1718346577
+      spriteID: aae41bd4f9b8ac443b87a1f98b2c4cac
+      internalID: -646326374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_4
+      name: PacGoblinDeath_9
       rect:
         serializedVersion: 2
         x: 64
@@ -229,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db942fd100b98a34293f4d62f399b2f2
-      internalID: -869425196
+      spriteID: 173ecae6294b6504dabc9bedc38a5243
+      internalID: 1685524810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_5
+      name: PacGoblinDeath_10
       rect:
         serializedVersion: 2
         x: 128
@@ -250,14 +355,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc9aa39759a2e124d991dbb653564445
-      internalID: 546370600
+      spriteID: bd9523d6991d0454ba53d94915e3398b
+      internalID: -1310815120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_6
+      name: PacGoblinDeath_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0e51ca99687e4e88325a14952d15d
+      internalID: -568749444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacGoblinDeath_12
       rect:
         serializedVersion: 2
         x: 0
@@ -271,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e392a329f9cb89f45ac4b59135a10a3a
-      internalID: -755209197
+      spriteID: 7efcfd36be0c2ad4a96a3f63cfe39a66
+      internalID: 252441214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_7
+      name: PacGoblinDeath_13
       rect:
         serializedVersion: 2
         x: 64
@@ -292,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 194f20a654a58e24ea48618ce9a91eb5
-      internalID: -1377597056
+      spriteID: 93756a30c16eb6348a119a0537315c93
+      internalID: 2029563482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rogue_8
+      name: PacGoblinDeath_14
       rect:
         serializedVersion: 2
         x: 128
@@ -313,8 +439,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aea0d6ca03206124e8bf3497da0fd253
-      internalID: 1432070009
+      spriteID: 3e0a5788f83ebd346818110fa14ff280
+      internalID: 515004044
       vertices: []
       indices: 
       edges: []
@@ -330,15 +456,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Rogue_0: 203492057
-      Rogue_1: -1988295425
-      Rogue_2: 1519309358
-      Rogue_3: -1718346577
-      Rogue_4: -869425196
-      Rogue_5: 546370600
-      Rogue_6: -755209197
-      Rogue_7: -1377597056
-      Rogue_8: 1432070009
+      PacGoblinDeath_0: -861441434
+      PacGoblinDeath_1: -1332781601
+      PacGoblinDeath_10: -1310815120
+      PacGoblinDeath_11: -568749444
+      PacGoblinDeath_12: 252441214
+      PacGoblinDeath_13: 2029563482
+      PacGoblinDeath_14: 515004044
+      PacGoblinDeath_2: 2043040356
+      PacGoblinDeath_3: 1714194634
+      PacGoblinDeath_4: 1762038955
+      PacGoblinDeath_5: -138772869
+      PacGoblinDeath_6: -425676225
+      PacGoblinDeath_7: -1019193681
+      PacGoblinDeath_8: -646326374
+      PacGoblinDeath_9: 1685524810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
